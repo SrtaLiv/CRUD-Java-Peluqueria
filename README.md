@@ -2,6 +2,7 @@
 
 <h2>Tabla Cliente:</h2>
     - nombre (VARCHAR): Nombre del cliente.
+    <br>
     - apellido (VARCHAR): Apellido del cliente.
     - telefono (VARCHAR): Número de teléfono del cliente.
     - servicio (VARCHAR): Tipo de servicio que solicita el cliente.
